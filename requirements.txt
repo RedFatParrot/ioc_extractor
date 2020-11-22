@@ -1,0 +1,2 @@
+iocextract==1.13.1
+fitz==0.0.1.dev2
